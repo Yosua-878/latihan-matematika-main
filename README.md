@@ -1,13 +1,9 @@
-# 🧮 Aplikasi Latihan Matematika
+# 🎯 Game Tebak Angka Sederhana
 
-Aplikasi latihan matematika interaktif dengan soal acak untuk:
-- Penjumlahan
-- Pengurangan
-- Perkalian
-- Pembagian
+Aplikasi web menggunakan Streamlit untuk menebak angka rahasia antara 1–100.
 
-## 🚀 Cara Menjalankan
+## 🚀 Cara Menjalankan Secara Lokal
 
 ```bash
 pip install -r requirements.txt
-streamlit run latihan_matematika.py
+streamlit run tebak_angka.py
